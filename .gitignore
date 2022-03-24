@@ -6,3 +6,4 @@ _site/
 filetoignore.txt
 another.txt
 anothercopy.txt
+_layouts/
