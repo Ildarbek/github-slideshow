@@ -2,6 +2,7 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .bundle
+#ignored files
 filetoignore.txt
 another.txt
 anothercopy.txt
