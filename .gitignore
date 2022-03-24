@@ -7,4 +7,4 @@ filetoignore.txt
 another.txt
 anothercopy.txt
 _layouts/
-_includes/
+#_includes/
