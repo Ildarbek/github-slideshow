@@ -11,3 +11,4 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 make changes then exit the container's CLI, then docker commit [CONTAINER_ID] [new_image_name]
+dev commit
