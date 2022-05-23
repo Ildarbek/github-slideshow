@@ -8,3 +8,4 @@ another.txt
 anothercopy.txt
 _layouts/
 #_includes/
+.sass-cache/
