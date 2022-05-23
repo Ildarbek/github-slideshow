@@ -12,3 +12,5 @@ I'll meet you over there, can't wait to get started!
 
 make changes then exit the container's CLI, then docker commit [CONTAINER_ID] [new_image_name]
 make changes then
+
+then docker commit - this is a commit from develop branch
