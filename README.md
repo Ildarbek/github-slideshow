@@ -16,3 +16,4 @@ make changes then
 then docker commit - this is a commit from develop branch
 dev commit
 master change
+change before merging to dev
