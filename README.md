@@ -17,3 +17,6 @@ then docker commit - this is a commit from develop branch
 dev commit
 master change
 change before merging to dev
+
+changes introduced for revert
+changes introduced for revert 1
