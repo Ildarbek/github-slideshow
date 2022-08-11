@@ -21,4 +21,4 @@ change before merging to dev
 changes introduced for revert
 changes introduced for revert 1
 
-changes to master before merging to dev
+changes to dev before merging 
